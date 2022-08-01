@@ -1,0 +1,6 @@
+Rencana Webdev
+- belajar html & css
+    belajar sampe flex
+- bikin projek projek web sederhana
+- belajar git dan github
+- belajar advance css (animasi & grid)
